@@ -1,6 +1,3 @@
-from re import L
-
-
 def hello():
     print("hello")
 
